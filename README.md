@@ -91,7 +91,7 @@ Translations of the guide are available in the following languages:
 * [Misc](#misc)
 * [Tools](#tools)
 
-## Source Code    Lay!!!out
+## Source Code    Lay!!!o"ut
   
 > Nearly everybody is convinced that every style but their own is
 > ugly and unreadable. Leave out the "but their own" and they're
